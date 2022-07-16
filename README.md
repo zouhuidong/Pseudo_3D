@@ -5,7 +5,7 @@
 
 ## 预览
 
-[!截图](./screenshots.png)
+![截图](./screenshots.png)
 
 ## 编译环境
 
