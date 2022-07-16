@@ -3,6 +3,10 @@
 
 一时兴起，胡写一通。杂乱无章，请多包涵。
 
+## 预览
+
+[!截图](./screenshots.png)
+
 ## 编译环境
 
 VisualStudio 2022 | EasyX 20220610 | [EasyWin32](https://github.com/zouhuidong/EasyWin32)
